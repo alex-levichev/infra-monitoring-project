@@ -1,0 +1,17 @@
+# Логи
+*.log
+logs/
+
+# Временные файлы
+*.tmp
+*.temp
+.DS_Store
+
+# Артефакты сборки
+build/
+dist/
+target/
+
+# Файлы редакторов
+.idea/
+.vscode/
